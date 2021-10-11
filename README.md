@@ -1,1 +1,6 @@
-# 28GlobalProcess-ChildProcess
+# Desafio28 - Usando el Objeto Process
+
+# ENDPOINTS
+/
+/info
+/randoms
